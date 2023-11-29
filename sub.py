@@ -4,3 +4,4 @@ y = input("Type another number: ")
 sub = int(x) - int(y)
 
 print("The sum is: ", sub).
+print("The sum is: ", sub).
